@@ -6,7 +6,8 @@ In this assignment, we are going to explore this application further, training a
 
 Follow the rest of the instructions on this page to complete your program. When you are done, _**instead of uploading your code, you will answer a series of quiz questions**_ (see the quiz after this reading) to document your completion of this assignment. The instructions will indicate what data to collect for answering the quiz.
 
-#### Learning outcomes ##
+#### Learning outcomes
+##
 
 - Execute sentiment analysis code with the IPython notebook
 - Load and transform real, text data
