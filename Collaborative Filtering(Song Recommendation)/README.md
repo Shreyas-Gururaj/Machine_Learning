@@ -7,3 +7,8 @@ This module focused on building recommender systems to find products, music and 
 - Build a song recommender model
 - Use the model to recommend songs to individual users based on popularity
 - Use the model to recommend songs to individual users based on personalized feature evaluation.
+
+
+## Additional implementation
+
+Used sklearn and pandas and supporting libraries to perform all the task.
