@@ -1,7 +1,7 @@
 University of Washington - Coursera
 ---
 
-This repo contains case_studies and assignments of [University of Washington - Coursera](https://www.coursera.org/uw).
+This repo contains case_studies of each submodules. [University of Washington - Coursera](https://www.coursera.org/uw).
 
 Each Case study is implememted on:
 - SFrames and Turicreate (As prefered in the course.)
