@@ -5,7 +5,8 @@ This repo contains case_studies of each submodules. [University of Washington - 
 
 Each Case study is implememted on:
 - SFrames and Turicreate (As prefered in the course.)
-- scikit-learn and pandas (Opensource and widely used.)
+- scikit-learn and pandas (Opensource and widely used. This was not a part of the course and was taken up out of my own interst.)
+  - nltk and spacy for NLP based modules.
 
 # Machine_Learning
 Machine learning projects and case studies
