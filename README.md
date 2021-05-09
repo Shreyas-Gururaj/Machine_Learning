@@ -3,7 +3,7 @@ University of Washington - Coursera
 
 This repo contains case_studies of each submodules. [University of Washington - Coursera](https://www.coursera.org/uw).
 
-Each Case study is implememted on:
+Each Case study is implememted using:
 * SFrames and Turicreate (As prefered in the course.)
 * scikit-learn and pandas (Opensource and widely used. This was not a part of the course and was taken up out of my own interst.)
   * <b><i>nltk</b></i> and <b><i>spacy</b></i> for NLP case-studies.
