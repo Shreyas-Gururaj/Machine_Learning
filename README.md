@@ -1,7 +1,10 @@
 University of Washington - Coursera
 ---
 
-This repo contains lectures and assignments of [University of Washington - Coursera](https://www.coursera.org/uw).
+This repo contains case_studies and assignments of [University of Washington - Coursera](https://www.coursera.org/uw).
+
+Each Case study is implememted on:
+Markup : - Bullet list
 
 # Machine_Learning
 Machine learning projects and case studies
