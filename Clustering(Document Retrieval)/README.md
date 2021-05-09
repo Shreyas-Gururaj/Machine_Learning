@@ -8,3 +8,7 @@ This module focused on using nearest neighbors and clustering to retrieve docume
 - Compare results with word counts and TF-IDF
 - Set the distance function in the retrieval
 - Build a document retrieval model using nearest neighbor search
+
+## Additional implementation
+
+Used sklearn and pandas and supporting libraries to perform all the task.
