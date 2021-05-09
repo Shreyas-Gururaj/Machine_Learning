@@ -1,7 +1,5 @@
 ## Analyzing product sentiment
 
-## 
-
 In this module, we focused on classifiers, applying them to analyzing product sentiment, and understanding the types of errors a classifier makes. We also built an exciting IPython notebook for analyzing the sentiment of real product reviews.
 
 In this assignment, we are going to explore this application further, training a sentiment analysis model using a set of key polarizing words, verify the weights learned to each of these words, and compare the results of this simpler classifier with those of the one using all of the words. These techniques will be a core component in your capstone project.
@@ -9,8 +7,6 @@ In this assignment, we are going to explore this application further, training a
 Follow the rest of the instructions on this page to complete your program. When you are done, _**instead of uploading your code, you will answer a series of quiz questions**_ (see the quiz after this reading) to document your completion of this assignment. The instructions will indicate what data to collect for answering the quiz.
 
 #### Learning outcomes
-
-## 
 
 - Execute sentiment analysis code with the IPython notebook
 - Load and transform real, text data
